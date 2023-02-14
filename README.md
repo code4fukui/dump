@@ -24,3 +24,8 @@ cd dump
 deno install --allow-read dump.js
 ```
 
+## Uninstall
+
+```sh
+deno uninstall dump
+```
