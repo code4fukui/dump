@@ -1,6 +1,7 @@
 # dump in JavaScript/Deno
 
-hex dump program in JavaScript for [Deno](https://deno.land)
+- hex dump program [dump.js](dump.js) in JavaScript for [Deno](https://deno.land)
+- binary dump program ([dump2.js](dump2.js) / [dump01.js](dump01.js))
 
 ## Usage
 
