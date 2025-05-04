@@ -17,13 +17,13 @@ deno run -A https://code4fukui.github.io/dump/dump.js test.bin
 ## Install
 
 ```sh
-deno install --allow-read https://code4fukui.github.io/dump/dump.js
+deno install --global --allow-read https://code4fukui.github.io/dump/dump.js
 ```
 or
 ```sh
 git clone https://github.com/code4fukui/dump.git
 cd dump
-deno install --allow-read dump.js
+deno install --global --allow-read dump.js
 ```
 
 ## Uninstall
